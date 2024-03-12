@@ -1,6 +1,4 @@
 # Bootcamp-Project3
-Members: Aayush Gambhir (aayushgambhir2023), Jason Tong (jasont1209), Lucas Antonio Girelli (Girellil), Muskan mittal (Muskanmittal323), Anuradha Kishore (anuradhakishore)
-
 Topic and Rationale:
 This project talks about This initiative focuses on acquiring and analyzing comprehensive budgeting data for programs within the City of Toronto. Sourced from official government channels and municipal websites, the dataset encompasses crucial details, including program names, detailed expenditure and revenue categories, and corresponding budget amounts. Through this project, we aim to provide valuable insights that will contribute to informed financial planning and decision-making processes for the City of Toronto.
 
@@ -12,6 +10,7 @@ Trend Analysis: Analyze budget trends over multiple years if historical data is 
 Predictive Modeling: Explore the possibility of building predictive models to forecast future budget allocations based on historical trends.
 Comparison with Demographic Data: Explore the relationship between budget allocations and demographic data for the City of Toronto. This could include factors such as population density, income levels, or other relevant indicators.
 Correlation Analysis: Investigate potential correlations between budget categories. Explore whether increased spending in one category is associated with changes in another using correlation matrices.
+Utilizing ETL techniques along with Flask, JavaScript (Plotly), and HTML, we developed multiple dashboards with interactive visualizations to present insights derived from the dataset.
 
 
 Dataset Links:
@@ -19,7 +18,7 @@ https://open.toronto.ca/dataset/city-wards/
 https://www.toronto.ca/city-government/data-research-maps/neighbourhoods-communities/ward-profiles/
 https://open.toronto.ca/dataset/budget-operating-budget-program-summary-by-expenditure-category/
 
-visualization ideas:
+Visualization ideas:
 interactive map showing wards
 dropdown
 line/bar graphs
